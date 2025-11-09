@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  link naar website: apple.com/nl of 'PassiePlek' project jaar 1
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
