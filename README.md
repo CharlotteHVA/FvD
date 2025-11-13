@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Charlotte Moolenaar
 
   #### Je startniveau:
-  Zwart
+  Rood / Zwart
 
   #### Je focus:
-  responsive óf surface plane (zit nog te kiezen)
+  Surface plane (als er nog tijd is Responsive)
  
 </details>
 
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar website: apple.com/nl of 'PassiePlek' project jaar 1
+  link naar website: Osmo.supply
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
