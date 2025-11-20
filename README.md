@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   link naar website: Osmo.supply of apple.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Homepagina Apple
   <img src="readme-images/apple_homepagina.png" width="375px" alt="Homepagina van Apple">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Productpagina Iphones Apple 
   <img src="readme-images/apple_productpagina_iphones.png" width="375px" alt="Productpagina Iphones van apple">
  
 </details>
