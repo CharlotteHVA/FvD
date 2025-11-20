@@ -58,7 +58,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Tijdens de toegankelijkheidstest op de Apple-website kwamen een aantal bevindingen naar voren:
+
+  - De HTML bevatte veel onduidelijke klassen en was niet volledig gevalideerd, wat de leesbaarheid van de code vermindert.
+  - De structuur van de koppen (zoals H2 en H3) zou duidelijker en consistenter kunnen worden toegepast om de inhoud logischer te maken.
+  - Lijstitems in de navigatie waren onduidelijk of ontbraken volledig, wat de semantiek en toegankelijkheid beïnvloedt.
+  - Toegankelijkheid van afbeeldingen: Hoewel afbeeldingen werden beschreven met behulp van <aria-label>, ontbrak vaak alt-tekst, wat essentieel is voor schermlezers.
+  - De site bevat weinig animaties. Dit biedt ruimte om de gebruikerservaring te verbeteren met creatieve maar toegankelijke animaties.
+  - Voordat de gebruiker de hoofdinhoud bereikt, moet hij eerst de hele navigatie doorlopen (desktop). Hierdoor is het onduidelijk waar de pagina over gaat.
+  - Knoppen zoals ‘Meer informatie’ zijn niet erg specifiek, waardoor het voor gebruikers moeilijk kan zijn om precies te begrijpen wat ze kunnen verwachten.
+  - De website reageerde niet op de licht en donkere modus (systeem instellingen), wat de toegankelijkheid en consistentie beperkte.
+
 
   ## Test 1 Document
 
