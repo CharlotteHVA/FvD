@@ -109,16 +109,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Vanwege afwezigheid door griep moet ik nog een paar onderdelen doornemen, met name het gedeelte over de JS 3-stap. Na de voortgangsgesprek zal ik de HTML-pagina maken en publiceren op Github, aangezien ik hier pas later achter kwam dat we daar moesten aan beginnen. Ik begrijp wat er op de pagina moet komen te staan.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1      | student 2          | Nomi Koenders    | Charlotte Moolenaar        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | dit bespreken  | en dit             | en ik dit    | Ik was er tijdens de laatste werkgroepen niet. Is er nog wat belangrijks gezegd over wat er met de website moet gebeuren? |
+  | en dat ook nog | dit als er tijd is | nog een punt | Ik ben van website veranderd en heb voor apple.com gekozen. |
   | ...            | ...                | ...          | ...              |
 
 
