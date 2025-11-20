@@ -62,11 +62,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ## Test 1 Document
 
-  <img src="toegankelijkheidstest_test1_1.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 1 document">
-  <img src="toegankelijkheidstest_test1_2.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 2 document">
-  <img src="toegankelijkheidstest_test1_3.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 3 document">
-  <img src="toegankelijkheidstest_test1_4.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 4 document">
-  <img src="toegankelijkheidstest_test1_5.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 5 document">
+  <img src="readme-images/toegankelijkheidstest_test1_1.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 1 document">
+  <img src="readme-images/toegankelijkheidstest_test1_2.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 2 document">
+  <img src="readme-images/toegankelijkheidstest_test1_3.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 3 document">
+  <img src="readme-images/toegankelijkheidstest_test1_4.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 4 document">
+  <img src="readme-images/toegankelijkheidstest_test1_5.jpg" width="375px" alt="Toegankelijkeheids Test 1 blazijde 5 document">
   
 
 </details>
