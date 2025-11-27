@@ -1,31 +1,120 @@
-/**************/
-/* CSS REMEDY */
-/**************/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+/******************************
+        CSS REMEDY   
+******************************/
+
+
 *, *::after, *::before {
-  box-sizing:border-box;  
+    box-sizing:border-box;  
+    margin: 0;
+    padding: 0;
+}
+
+
+/******************************
+        CUSTOM PROPERTIES 
+******************************/
+
+:root { /* specifieker maken? */
+    --color-primary: #ffffff;  
+    --color-secundairy: #1d1d1f;
+
+    --color-gray: #181818;
+    --color-light-gray: #f5f5f7;  
+    --color-dark-blue: #121933;
+    --color-blue: #0271e4;
+
+    --text-center: center; /* is dit handig om te doen? */
+}
+
+main {
+    background-color: var(--color-primary);
+    color: var(--color-secundairy);
+    font-family: "Inter", sans-serif;
+
+}
+
+
+/******************************
+            HEADINGS 
+******************************/
+
+h2 {
+    font-size: 2em;
+    text-align: var(--text-center);
+    padding: 0 0 .5em 0;
+
+    width: fit-content;
+    
+}
+
+
+p {
+    text-align: var(--text-center);
+
+    font-size: 1em;
+    font-weight: 300;
+    padding: 0 0 1em 0;
+}
+
+
+a {
+    color: var(--color-primary);
+
+    font-size: 1em;
+    font-weight: 300;
+    text-align: var(--text-center);
+    text-decoration: none;
+
+    background: var(--color-blue);
+    padding: 1em;
+    border-radius: 2em;
+}
+
+
+
+/******************************
+            HEADER 
+******************************/
+
+
+
+
+/******************************
+            MAIN 
+******************************/
+
+
+section {
+    display: flex;
+    flex-flow: column;
+    justify-content: end;
+    align-items: center;
+    
+    padding: 2em;
+}
+
+
+section:nth-of-type(1) {
+    background-color: var(--color-dark-blue);
+    color: var(--color-primary);
+    height: 60vh; /* makkelijker maken */
+
+}
+
+
+section:nth-of-type(2) {
+    background-color: var(--color-secundairy);
+    color: var(--color-primary);
+
+    justify-content: start;
+    height: 60vh;
+
 }
 
 
 
 
-
-
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
-:root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
-}
-
-
-
-
-
-/****************/
-/* JOUW STYLING */
-/****************/
-
-/* jouw code */
 
