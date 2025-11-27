@@ -148,11 +148,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1      | student 2          | student 3    | Charlotte Moolenaar        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | dit bespreken  | en dit             | en ik dit    | Bij de opbouw van een section die helemaal klikbaar is, zou dat een list item en a zijn met daarin de elementen. |
+  | en dat ook nog | dit als er tijd is | nog een punt | Is de :root duidelijk genoeg qua naamgeving voor de kleuren. |
+  | ...            | ...                | ...          |               |
 
 
   ### Verslag van meeting
