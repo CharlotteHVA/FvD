@@ -1,22 +1,85 @@
 <!DOCTYPE html>
-<html lang="nl">
-	
+<html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
+    <meta charset="UTF-8">
+	<meta name="author" content="charlotte">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Howdy FED2526</title>
 
-	<link href="styles/style.css" rel="stylesheet">
-
+    <title>Homepagina</title>
+    <link href="styles/style.css" rel="stylesheet">
 	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
 </head>
-
 <body>
-	<h1>Howdy FED2526</h1>
+    <header> 
+        <nav> <!-- button nog toevoegen (aria) hamburger -->
+            <ul> <!-- verder alle linkjes erbij zetten -->
+                <li><a href="#">Store</a></li>
+                <li><a href="#">Mac</a></li>
+                <li><a href="#">iPhone</a></li>
+                <li><a href="#">Support</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section> <!-- Kan dit beter een li en a zijn met de elementen erin, wegens dat het gedeelte klikbaar moet zijn. -->
+            <img src="" alt="">
+            <h2>The Apple Store Shopping Event</h2>
+            <p>Get an Apple Gift Card with an eligible purchase.' Starts 11.28.</p>
+            <a href="">Learn More</a>
+        </section>
+        <section>  <!-- img is transparant en achtergrond kleur (responsive) -->
+            <h2>iPhone 17 Pro</h2>
+            <p>All out Pro.</p>
+            <a href="">Learn More</a>
+            <a href="">Buy</a>
+            <img src="" alt="">
+        </section>
+        <section> 
+            <h2>Iphone Air</h2>
+            <p>The thinniest iPhone ever. With the power of the pro inside</p>
+            <a href="">Learn More</a> <!-- Mogen deze in een div met display flex? -->
+            <a href="">Buy</a>
+            <img src="" alt="">
+        </section>
+        <section> <!-- carosoal 1. Is dit vooral afbeeldingen, en soms tekst en a -->
+            <ul>
+                <li>
+                    <a href="">Stream Now</a>
+                    <p>Film 1</p>
+                </li>
+                <li>
+                    <a href="">Stream Now</a>
+                    <p>Film 2</p>
+                </li>
+                <li>
+                    <a href="">Stream Now</a>
+                    <p>Film 3</p>
+                </li>
+            </ul>
+        </section> <!-- andere lists toevoegen eronder -->
+        <section> <!-- carosoal 2. Afbeeldingen, links text en rechts logo -->
+            <ul>
+                <li>
+                    <a href="">Stream Now</a>
+                    <p>Film1</p>
+                </li>
+                <li>
+                    <a href="">Stream Now</a>
+                    <p>Film 2</p>
+                </li>
+                <li>
+                    <a href="">Stream Now</a>
+                    <p>Film 3</p>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer> <!-- Section met apple notities laat ik weg -->
+        <nav>
 
-	<script defer src="scripts/script.js"></script>
+        </nav>
+        <p>Copyright © 2025 Apple Inc. All rights reserved.</p>
+    </footer>
+    <script defer src="scripts/script.js"></script>
 </body>
-	
 </html>
