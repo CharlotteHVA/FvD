@@ -73,7 +73,9 @@ a {
     border-radius: 2em;
 }
 
-
+ul {
+    text-transform: none;
+}        
 
 /******************************
             HEADER 
