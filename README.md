@@ -197,9 +197,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | Wat is het beste voor de H1? De visually hidden class of <H1><a><img>  |
-  | en dat ook nog | dit als er tijd is | nog een punt |  |
-  | ...            | ...                | ...          |               |
+  | dit bespreken  | en dit             | en ik dit    | Wat is het beste voor de H1? De visually hidden class of h1, a, img |
+  | en dat ook nog | dit als er tijd is | nog een punt |                  |
+  | ...            | ...                | ...          |                  |
 
 
   ### Verslag van meeting
