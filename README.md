@@ -119,7 +119,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | Ik was er tijdens de laatste werkgroepen niet. Is er nog wat belangrijks gezegd over wat er met de website moet gebeuren? |
   | en dat ook nog | dit als er tijd is | nog een punt | Ik ben van website veranderd en heb voor apple.com gekozen. |
-  | ...            | ...                | ...          | ...              |
+  | ...            | ...                | ...          |               |
 
 
   ### Verslag van meeting
@@ -197,9 +197,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | dit bespreken  | en dit             | en ik dit    | Wat is het beste voor de H1? De visually hidden class of <H1><a><img>  |
+  | en dat ook nog | dit als er tijd is | nog een punt |  |
+  | ...            | ...                | ...          |               |
 
 
   ### Verslag van meeting
