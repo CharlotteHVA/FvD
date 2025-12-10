@@ -1080,7 +1080,6 @@ section:nth-of-type(4) li {
         width: fit-content;
     }
 
-    /* Put BOTH links on the same row = row 4 (example) */
     .iphone-pagina section:nth-of-type(3) li a:first-of-type {
         grid-column: 1;
         grid-row: 6; 
