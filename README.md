@@ -171,6 +171,11 @@ Ik heb ook duidelijk gemaakt dat ik mijn gekozen website had gewijzigd in apple.
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  <img src="readme-images/toegankelijkheidstest_test2_1.jpg" width="375px" alt="Toegankelijkeheids Test 2 blazijde 1 document">
+  <img src="readme-images/toegankelijkheidstest_test2_2.jpg" width="375px" alt="Toegankelijkeheids Test 2 blazijde 2 document">
+  <img src="readme-images/toegankelijkheidstest_test2_3.jpg" width="375px" alt="Toegankelijkeheids Test 2 blazijde 3 document">
+  <img src="readme-images/toegankelijkheidstest_test2_4.jpg" width="375px" alt="Toegankelijkeheids Test 2 blazijde 4 document">
+
 </details>
 
 
