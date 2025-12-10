@@ -175,7 +175,7 @@ header nav button img {
 
 /* als menu open is (kruisje) */
 header nav.toonMenu button img {
-    content: url(./images/apple_menu_close.svg);
+    content: url(../images/apple_menu_close.svg);
 }
 
 /* links */
