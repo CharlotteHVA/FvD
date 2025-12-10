@@ -244,6 +244,8 @@ Ik ben ook bekend geraakt met het gebruik van keyframes. Hoewel je dit misschien
 
 Ik had ook moeite met het toevoegen van animaties (kwam vooral omdat de website van apple was en ik niet van de stijl af wilde wijken). Daarom heb ik gekozen voor subtiele, vloeiende animaties (zie scroll homepagina). In de toekomst wil ik mijn code nog eens doornemen en opschonen, zodat deze voor mijzelf duidelijker en beter georganiseerd is.
 
+Wat mij op het einde niet gelukt was (door tijd) was de <li> op de tweede pagina interactief te maken. Ik wil deze na het eindgesprek proberen te verbeteren.
+
 
   <img src="readme-images/eindresultaat_animatie.png" width="375px" alt="animatie op website">
 </details>
