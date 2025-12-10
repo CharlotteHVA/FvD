@@ -209,6 +209,8 @@ Ik heb ook duidelijk gemaakt dat ik mijn gekozen website had gewijzigd in apple.
   | ---              |
   | Wat is het beste voor de H1? De visually hidden class of h1, a, img |
 
+  <img src="readme-images/voorbeeld_code_3.png" width="375px" alt="Klikbare section">
+
   ### Verslag van meeting
   Deze keer was er maar één student-assistent aanwezig, dus de tijd was wat krap. Gelukkig kon ik toch mijn vraag stellen. Ik wilde weten wat de beste aanpak was voor de H1 op mijn pagina. De conclusie was dat alle opties die ik overwoog (zoals het gebruik van een visual-hidden of het combineren van <h1>, <a> en <img>) zijn toegestaan, zolang de structuur semantisch correct is.
 
