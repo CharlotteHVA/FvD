@@ -198,26 +198,20 @@ Ik heb ook duidelijk gemaakt dat ik mijn gekozen website had gewijzigd in apple.
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De werkgroepen verliepen goed en de uitleg was duidelijk. Ik heb gekeken naar het toevoegen van animaties op de website. Ik ga vooral proberen om simple en vloeiende animaties te gebruiken die niet de stijl van apple verstoren.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | Wat is het beste voor de H1? De visually hidden class of h1, a, img |
-  | en dat ook nog | dit als er tijd is | nog een punt |                  |
-  | ...            | ...                | ...          |                  |
-
+  | Vragen        |
+  | ---              |
+  | Wat is het beste voor de H1? De visually hidden class of h1, a, img |
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Deze keer was er maar één student-assistent aanwezig, dus de tijd was wat krap. Gelukkig kon ik toch mijn vraag stellen. Ik wilde weten wat de beste aanpak was voor de H1 op mijn pagina. De conclusie was dat alle opties die ik overwoog (zoals het gebruik van een visual-hidden of het combineren van <h1>, <a> en <img>) zijn toegestaan, zolang de structuur semantisch correct is.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Dit gaf me voldoende informatie om door te gaan met het uitbreiden van mijn CSS.
 
 </details>
 
