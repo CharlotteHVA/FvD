@@ -268,7 +268,7 @@ Wat mij op het einde niet gelukt was (door tijd) was de <li> op de tweede pagina
   1. https://cssgridgarden.com/
   2. https://www.youtube.com/watch?v=iLmBy-HKIAw&t=18s (css scroll loop infinite)
   3. https://www.youtube.com/watch?v=LqE9ESCX6LU (scroll horizontaal)
-  4. https://www.apple.com/ (website die ik als refrentie heb gebruikt)
+  4. https://www.apple.com/ (website die ik als referentie heb gebruikt)
   5. https://developer.mozilla.org/en-US/docs/Web/CSS (media queries, dark/light mode, grid, flex)
   6. https://dlo.mijnhva.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=690110&type=coursefile&fileId=FED+25-26+-+Blok+2+-+Intro+media+queries.pdf (media queries formaten)
   7. https://www.youtube.com/watch?v=HZHHBwzmJLk (animatie css)
