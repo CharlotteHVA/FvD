@@ -141,26 +141,21 @@ Ik heb ook duidelijk gemaakt dat ik mijn gekozen website had gewijzigd in apple.
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De opbouw van mijn HTML verliep goed. Ik had van tevoren een duidelijk idee hoe ik de structuur wilde aanpakken, zodat deze overzichtelijk en toegankelijk zou zijn (met duidelijke kopjes en een logische volgorde).
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | Charlotte Moolenaar        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | Bij de opbouw van een section die helemaal klikbaar is, zou dat een list item en a zijn met daarin de elementen. |
-  | en dat ook nog | dit als er tijd is | nog een punt | Is de :root duidelijk genoeg qua naamgeving voor de kleuren. |
-  | ...            | ...                | ...          | Mag ik een div gebruiken om twee elementen (a) naast elkaar te zetten met display flex? |
+ | Vragen      |
+ | ---              |
+| Bij de opbouw van een section die helemaal klikbaar is, zou dat een list item en a zijn met daarin de elementen. |
+  | Is de :root duidelijk genoeg qua naamgeving voor de kleuren. |
+  | Mag ik een div gebruiken om twee elementen (a) naast elkaar te zetten met display flex? |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Een punt waar ik op vastliep, was het naast elkaar plaatsen van twee <a> elementen. Ik vroeg me af of dit mogelijk was met een <div> en display: flex (omdat dit een makkelijke manier is), ik kreeg daar al snel te horen dat er een andere manier, zelf denk ik om display: grid te gebruiken. Verder verliepen de werkgroepen deze week goed, maar ik realiseer me dat ik in het volgende deel, CSS, echt gefocust moet blijven en goed moet nadenken over hoe ik verschillende elementen ga aanpakken.
 
 </details>
 
