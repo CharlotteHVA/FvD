@@ -229,13 +229,19 @@ Dit gaf me voldoende informatie om door te gaan met het uitbreiden van mijn CSS.
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb geleerd om met verschillende CSS-selectors te werken (:nth-of-type) en media queries toe te passen. Een belangrijke les die ik zeker zal onthouden, is om eerst voor mobiel te ontwerpen en pas daarna de desktopversie te maken. Deze mobiel eerst aanpak heeft me enorm geholpen om alles goed en netjes op te bouwen.
+
+Ik ben ook bekend geraakt met het gebruik van keyframes. Hoewel je dit misschien niet vaak terugziet in mijn project, kijk ik ernaar uit om het vaker te gebruiken in persoonlijke projecten.
+
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Ik vond het moeilijk om mijn code overzichtelijk te houden en te voorkomen dat deze rommelig of herhalend werd (DRY-code). Omdat ik veel verschillende selectors gebruikte, raakte ik soms de draad kwijt. Ik heb dit probleem gedeeltelijk opgelost door duidelijke opmerkingen aan mijn code toe te voegen.
+
+Ik had ook moeite met het toevoegen van animaties (kwam vooral omdat de website van apple was en ik niet van de stijl af wilde wijken). Daarom heb ik gekozen voor subtiele, vloeiende animaties (zie scroll homepagina). In de toekomst wil ik mijn code nog eens doornemen en opschonen, zodat deze voor mijzelf duidelijker en beter georganiseerd is.
+
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
