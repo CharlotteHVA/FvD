@@ -6,80 +6,133 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Homepagina</title>
-    <link href="styles/styles.css" rel="stylesheet">
-	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header> 
-        <nav> <!-- button nog toevoegen (aria) hamburger -->
-            <ul> <!-- verder alle linkjes erbij zetten -->
-                <li><a href="#">Store</a></li>
-                <li><a href="#">Mac</a></li>
-                <li><a href="#">iPhone</a></li>
-                <li><a href="#">Support</a></li>
+    <header>
+        <a href="index.html"><img src="/images/apple_logo.svg" alt="Go to homepage"/></a>
+        <nav>
+            <button aria-hidden="true"><img src="/images/apple_menu.svg" alt="Open menu"/></button>
+            <ul>
+                <li><a class="active">Store</a></li>
+                <li><a href="iphone.html">Mac</a></li>
+                <li><a href="iphone.html">iPad</a></li>
+                <li><a href="iphone.html">iPhone</a></li>
+                <li><a href="iphone.html">Watch</a></li>
+                <li><a href="iphone.html">Vision</a></li>
+                <li><a href="iphone.html">Airpods</a></li>
+                <li><a href="iphone.html">TV & Home</a></li>
+                <li><a href="iphone.html">Entertainment</a></li>
+                <li><a href="iphone.html">Accessories</a></li>
+                <li><a href="iphone.html">Support</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section> <!-- Kan dit beter een li en a zijn met de elementen erin, wegens dat het gedeelte klikbaar moet zijn. -->
-            <img src="" alt="">
-            <h2>The Apple Store Shopping Event</h2>
-            <p>Get an Apple Gift Card with an eligible purchase.' Starts 11.28.</p>
-            <a href="">Learn More</a>
+        <h1 class="visually-hidden">Apple homepage</h1>
+        <section> 
+            <img src="images/apple_gift.png" alt=""> 
+            <h2>Give something special.</h2>
+            <p>Find what they've been waiting for all year.</p>
+            <a href="iphone.html" aria-label="Learn more about the Apple Store Shopping Event">Shop gifts</a>
         </section>
-        <section>  <!-- img is transparant en achtergrond kleur (responsive) -->
-            <h2>iPhone 17 Pro</h2>
-            <p>All out Pro.</p>
-            <a href="">Learn More</a>
-            <a href="">Buy</a>
-            <img src="" alt="">
+        <section>
+            <h2>Airpods Pro 3</h2>
+            <p>The world's best in-ear Active noise Cancellation.</p>
+            <a href="iphone.html" aria-label="Learn more about the iPhone 17 Pro">Learn More</a>
+            <a href="iphone.html" aria-label="Buy the iPhone 17 Pro">Buy</a>
+            <img src="images/apple_iphones.png" alt="A visual image of the airpods">
         </section>
         <section> 
             <h2>Iphone Air</h2>
             <p>The thinniest iPhone ever. With the power of the pro inside</p>
-            <a href="">Learn More</a> <!-- Mogen deze in een div met display flex? -->
-            <a href="">Buy</a>
-            <img src="" alt="">
-        </section>
-        <section> <!-- carosoal 1. Is dit vooral afbeeldingen, en soms tekst en a -->
-            <ul>
+            <a href="iphone.html" aria-label="Learn more about the iPhone Air">Learn More</a> 
+            <a href="iphone.html" aria-label="Buy the iPhone Air">Buy</a>
+            <img src="images/apple_airpods.png" alt="">
+        </section>  
+        <section data-scroller data-direction="right" data-speed="slow">
+            <h2>Endless entertainment.</h2>
+            <ul data-scroller-inner> 
                 <li>
-                    <a href="">Stream Now</a>
-                    <p>Film 1</p>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
                 </li>
                 <li>
-                    <a href="">Stream Now</a>
-                    <p>Film 2</p>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
                 </li>
                 <li>
-                    <a href="">Stream Now</a>
-                    <p>Film 3</p>
-                </li>
-            </ul>
-        </section> <!-- andere lists toevoegen eronder -->
-        <section> <!-- carosoal 2. Afbeeldingen, links text en rechts logo -->
-            <ul>
-                <li>
-                    <a href="">Stream Now</a>
-                    <p>Film1</p>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
                 </li>
                 <li>
-                    <a href="">Stream Now</a>
-                    <p>Film 2</p>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
                 </li>
                 <li>
-                    <a href="">Stream Now</a>
-                    <p>Film 3</p>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
                 </li>
-            </ul>
+                <li>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
+                </li>
+                <li>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
+                </li>
+                <li>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
+                </li>
+                <li>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
+                </li>
+                <li>
+                    <img src="/images/apple_movies_theFamilyPlan.png" alt="Poster of the movie The Family Plan">
+                    <p>Comedy.</p>
+                    <p>Same family. New plan.</p>
+                    <a href="iphone.html" aria-label="Stream now The Family Plan">Stream Now</a>
+                </li>
+            </ul>  
         </section>
     </main>
-    <footer> <!-- Section met apple notities laat ik weg -->
+    <footer>
         <nav>
-
+            <ul>
+                <li><a href="#">Shop and Learn</a></li>
+                <li><a href="#">Apple Wallet</a></li>
+                <li><a href="#">Account</a></li>
+                <li><a href="#">Entertainment</a></li>
+                <li><a href="#">Apple Store</a></li>
+                <li><a href="#">For Business</a></li>
+                <li><a href="#">For Education</a></li>
+                <li><a href="#">For Healthcare</a></li>
+                <li><a href="#">For Government</a></li>
+                <li><a href="#">Apple Values</a></li>
+                <li><a href="#">About Apple</a></li>
+            </ul>
         </nav>
-        <p>Copyright © 2025 Apple Inc. All rights reserved.</p>
     </footer>
-    <script defer src="scripts/script.js"></script>
+    <script defer src="script.js"></script>
 </body>
 </html>
