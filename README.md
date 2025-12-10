@@ -115,7 +115,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-| Vragen die ik wil stellen        |
+| Vragen        |
 | ---              |
 | Ik was er tijdens de laatste werkgroepen niet. Is er nog wat belangrijks gezegd over wat er met de website moet gebeuren? |
 | Ik ben van website veranderd en heb voor apple.com gekozen. |
@@ -236,7 +236,7 @@ Dit gaf me voldoende informatie om door te gaan met het uitbreiden van mijn CSS.
 Ik ben ook bekend geraakt met het gebruik van keyframes. Hoewel je dit misschien niet vaak terugziet in mijn project, kijk ik ernaar uit om het vaker te gebruiken in persoonlijke projecten.
 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/voorbeeld_code_2.png" width="375px" alt="voorbeeld code dark/light mode">
 
 
   ### Dit was lastig/Is niet gelukt:
@@ -245,7 +245,7 @@ Ik ben ook bekend geraakt met het gebruik van keyframes. Hoewel je dit misschien
 Ik had ook moeite met het toevoegen van animaties (kwam vooral omdat de website van apple was en ik niet van de stijl af wilde wijken). Daarom heb ik gekozen voor subtiele, vloeiende animaties (zie scroll homepagina). In de toekomst wil ik mijn code nog eens doornemen en opschonen, zodat deze voor mijzelf duidelijker en beter georganiseerd is.
 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/eindresultaat_animatie.png" width="375px" alt="animatie op website">
 </details>
 
 
