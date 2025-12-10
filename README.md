@@ -153,6 +153,7 @@ Ik heb ook duidelijk gemaakt dat ik mijn gekozen website had gewijzigd in apple.
   | Is de :root duidelijk genoeg qua naamgeving voor de kleuren. |
   | Mag ik een div gebruiken om twee elementen (a) naast elkaar te zetten met display flex? |
 
+<img src="readme-images/voorbeeld_code_1.png" width="375px" alt="Klikbare section">
 
   ### Verslag van meeting
   Een punt waar ik op vastliep, was het naast elkaar plaatsen van twee <a> elementen. Ik vroeg me af of dit mogelijk was met een <div> en display: flex (omdat dit een makkelijke manier is), ik kreeg daar al snel te horen dat er een andere manier, zelf denk ik om display: grid te gebruiken. Verder verliepen de werkgroepen deze week goed, maar ik realiseer me dat ik in het volgende deel, CSS, echt gefocust moet blijven en goed moet nadenken over hoe ik verschillende elementen ga aanpakken.
@@ -225,7 +226,8 @@ Dit gaf me voldoende informatie om door te gaan met het uitbreiden van mijn CSS.
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/eindresultaat_website_pagina1.png" width="375px" alt="uitomst opdracht 1 pagina 1">
+  <img src="readme-images/eindresultaat_website_pagina2.png" alt="uitomst opdracht 1 pagina 2">
 
 
   ### Dit ging goed/Heb ik geleerd: 
