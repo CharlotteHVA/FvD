@@ -169,7 +169,17 @@ Ik heb ook duidelijk gemaakt dat ik mijn gekozen website had gewijzigd in apple.
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Tijdens de toegankelijkheidstest op de Apple-website kwamen een aantal bevindingen naar voren:
+
+- Sommige termen in de tekst zijn moeilijk te begrijpen.
+- De alt-teksten voor afbeeldingen ontbreken nog steeds. HTML is daardoor niet gevalideerd en missen schermlezers belangrijke informatie.
+- Navigeren met de Tab-toets werkt nog niet goed. De :focus ontbreekt en knoppen hebben nog geen duidelijke actieve of hover states.
+- De rotatie is nog wat rommelig en de knoppen hebben niet overal dezelfde grootte. 
+- De H1 ontbreekt.
+- Het ontwerp van interactieve elementen zoals knoppen moet nog worden gemaakt.
+- Er is nog geen ondersteuning voor dark/light mode. De kleuren passen zich nog niet aan het systeem aan.
+- Animaties ontbreken nog. Niet vergeten: reduced-motion!!
+- De stijl voor geselecteerde tekst is nog niet aangepast. Een :selection toevoegen voor de leesbaarheid.
 
   <img src="readme-images/toegankelijkheidstest_test2_1.jpg" width="375px" alt="Toegankelijkeheids Test 2 blazijde 1 document">
   <img src="readme-images/toegankelijkheidstest_test2_2.jpg" width="375px" alt="Toegankelijkeheids Test 2 blazijde 2 document">
