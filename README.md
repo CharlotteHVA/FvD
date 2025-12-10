@@ -115,20 +115,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | Nomi Koenders    | Charlotte Moolenaar        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | Ik was er tijdens de laatste werkgroepen niet. Is er nog wat belangrijks gezegd over wat er met de website moet gebeuren? |
-  | en dat ook nog | dit als er tijd is | nog een punt | Ik ben van website veranderd en heb voor apple.com gekozen. |
-  | ...            | ...                | ...          |               |
+| Vragen die ik wil stellen        |
+| ---              |
+| Ik was er tijdens de laatste werkgroepen niet. Is er nog wat belangrijks gezegd over wat er met de website moet gebeuren? |
+| Ik ben van website veranderd en heb voor apple.com gekozen. |
+
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Na het gesprek heb ik kort de belangrijkste resultaten samengevat:
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Tijdens de vergadering heb ik mijn vragen kunnen stellen. Er werd aangegeven dat de HTML-structuur en de schetsen voor de indeling uiterlijk volgende week klaar moeten zijn, omdat we dan met   het CSS-gedeelte beginnen. Daarnaast moeten we bij het eindresultaat minstens drie specifieke JavaScript-regels in ons project moeten toepassen (later heb ik deze werkgroep doorgenomen).  
+
+Ik heb ook duidelijk gemaakt dat ik mijn gekozen website had gewijzigd in apple.com. Verder heb ik goed geluisterd naar de input van anderen. Hun vragen en uitleg over hun HTML-structuur gaven me meer inzicht in hoe ik mijn eigen structuur op een logische en duidelijke manier kan opzetten.
 
 </details>
 
